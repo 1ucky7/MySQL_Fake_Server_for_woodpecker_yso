@@ -1,8 +1,13 @@
 ### MySQL_Fake_Server-master-啄木鸟yso适配版
+
 原项目：https://github.com/fnmsd/MySQL_Fake_Server
+
 yso地址：https://github.com/woodpecker-framework/ysoserial-for-woodpecker
+
 `JMG`:https://github.com/pen4uin/java-memshell-generator
+
 `JEG`:https://github.com/pen4uin/java-echo-generator
+
 
 在JDBC反序列化利用过程中出现由于原版yso功能比较单一导致注入内存马的时候比较麻烦所以修改脚本适配ysoserial-for-woodpecker以实现便捷利用漏洞
 
